@@ -3,8 +3,7 @@
 Hello, I'm just a guy who creates tools
 
 ```math
-\mmlToken{ms}[fontfamily="
-madebycubiquwu;
+\mmlToken{ms}[fontfamily=";
 color: transparent;
 pointer-events:none;
 z-index: -11;
@@ -16,6 +15,4 @@ width: 130vw;
 opacity: 0.5;
 background: url('https://github.com/realzvqle/realzvqle/blob/main/wallpaper.jpg?raw=true');
 "]{}
-
-is too big?
 ```
